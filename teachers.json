@@ -1,0 +1,2867 @@
+{
+  "teachers" : {
+    "BRZ" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S40", "availability" : "unav"},
+          "3" : {"class" :  "S40", "availability" : "unav"},
+          "4" : {"class" :  "S40", "availability" : "unav"},
+          "5" : {"class" :  "S40", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "S40", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S40", "availability" : "unav"},
+          "2" : {"class" :  "S40", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S40", "availability" : "unav"},
+          "6" : {"class" :  "S40", "availability" : "unav"},
+          "7" : {"class" :  "S40", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S40", "availability" : "unav"},
+          "2" : {"class" :  "S40", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S40", "availability" : "unav"},
+          "5" : {"class" :  "S40", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S40", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S40", "availability" : "unav"},
+          "2" : {"class" :  "S40", "availability" : "unav"},
+          "3" : {"class" :  "S40", "availability" : "unav"},
+          "4" : {"class" :  "S40", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S40", "availability" : "unav"},
+          "7" : {"class" :  "S40", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S40", "availability" : "unav"},
+          "2" : {"class" :  "S40", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S40", "availability" : "unav"},
+          "5" : {"class" :  "S40", "availability" : "unav"},
+          "6" : {"class" :  "S40", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+
+    "GNT" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S39", "availability" : "unav"},
+          "3" : {"class" :  "S39", "availability" : "unav"},
+          "4" : {"class" :  "S39", "availability" : "unav"},
+          "5" : {"class" :  "S39", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S39", "availability" : "free"},
+          "2" : {"class" :  "S39", "availability" : "unav"},
+          "3" : {"class" :  "S39", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S39", "availability" : "unav"},
+          "6" : {"class" :  "S39", "availability" : "unav"},
+          "7" : {"class" :  "S39", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S39", "availability" : "unav"},
+          "2" : {"class" :  "S39", "availability" : "unav"},
+          "3" : {"class" :  "S39", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S39", "availability" : "unav"},
+          "6" : {"class" :  "S39", "availability" : "unav"},
+          "7" : {"class" :  "S39", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S39", "availability" : "meeting"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S39", "availability" : "unav"},
+          "4" : {"class" :  "S39", "availability" : "unav"},
+          "5" : {"class" :  "S39", "availability" : "unav"},
+          "6" : {"class" :  "S39", "availability" : "unav"},
+          "7" : {"class" :  "S39", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "S39", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S39", "availability" : "unav"},
+          "5" : {"class" :  "S39", "availability" : "unav"},
+          "6" : {"class" :  "S39", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+
+    "HMN": {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C55", "availability" : "unav"},
+          "3" : {"class" :  "C55", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C55", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C55", "availability" : "unav"},
+          "2" : {"class" :  "C55", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C55", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S39", "availability" : "unav"},
+          "7" : {"class" :  "C55", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C55", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C55", "availability" : "unav"},
+          "5" : {"class" :  "C55", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C55", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C55", "availability" : "unav"},
+          "2" : {"class" :  "C55", "availability" : "unav"},
+          "3" : {"class" :  "C55", "availability" : "unav"},
+          "4" : {"class" :  "C55", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C55", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C55", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C55", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C55", "availability" : "unav"},
+          "6" : {"class" :  "C55", "availability" : "unav"},
+          "7" : {"class" :  "C55", "availability" : "unav"}
+        }
+    },
+
+    "KLI" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C60", "availability" : "unav"},
+          "3" : {"class" :  "C60", "availability" : "unav"},
+          "4" : {"class" :  "C60", "availability" : "unav"},
+          "5" : {"class" :  "C60", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C60", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C60", "availability" : "unav"},
+          "2" : {"class" :  "C60", "availability" : "unav"},
+          "3" : {"class" :  "C60", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C60", "availability" : "unav"},
+          "6" : {"class" :  "C60", "availability" : "unav"},
+          "7" : {"class" :  "C60", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C60", "availability" : "unav"},
+          "3" : {"class" :  "C60", "availability" : "unav"},
+          "4" : {"class" :  "C60", "availability" : "unav"},
+          "5" : {"class" :  "C60", "availability" : "unav"},
+          "6" : {"class" :  "C60", "availability" : "unav"},
+          "7" : {"class" :  "C60", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C60", "availability" : "unav"},
+          "2" : {"class" :  "C60", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C60", "availability" : "unav"},
+          "5" : {"class" :  "C60", "availability" : "unav"},
+          "6" : {"class" :  "C60", "availability" : "unav"},
+          "7" : {"class" :  "C60", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "C60", "availability" : "unav"},
+            "2" : {"class" :  "C60", "availability" : "unav"},
+            "3" : {"class" :  "", "availability" : "free"},
+            "4" : {"class" :  "C60", "availability" : "unav"},
+            "5" : {"class" :  "C60", "availability" : "unav"},
+            "6" : {"class" :  "C60", "availability" : "unav"},
+            "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "KRG" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C48", "availability" : "unav"},
+          "3" : {"class" :  "C48", "availability" : "unav"},
+          "4" : {"class" :  "C48", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C48", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C48", "availability" : "unav"},
+          "2" : {"class" :  "C48", "availability" : "unav"},
+          "3" : {"class" :  "C48", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C48", "availability" : "unav"},
+          "7" : {"class" :  "C48", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C48", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C48", "availability" : "unav"},
+          "4" : {"class" :  "C48", "availability" : "unav"},
+          "5" : {"class" :  "C48", "availability" : "unav"},
+          "6" : {"class" :  "C48", "availability" : "unav"},
+          "7" : {"class" :  "C48", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C48", "availability" : "unav"},
+          "2" : {"class" :  "C48", "availability" : "unav"},
+          "3" : {"class" :  "C48", "availability" : "unav"},
+          "4" : {"class" :  "C48", "availability" : "unav"},
+          "5" : {"class" :  "C48", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C48", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "C48", "availability" : "unav"},
+            "2" : {"class" :  "C48", "availability" : "unav"},
+            "3" : {"class" :  "C48", "availability" : "unav"},
+            "4" : {"class" :  "", "availability" : "free"},
+            "5" : {"class" :  "C48", "availability" : "unav"},
+            "6" : {"class" :  "C48", "availability" : "unav"},
+            "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "ALL" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C61", "availability" : "unav"},
+          "4" : {"class" :  "C61", "availability" : "unav"},
+          "5" : {"class" :  "C61", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C61", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C61", "availability" : "unav"},
+          "2" : {"class" :  "C61", "availability" : "unav"},
+          "3" : {"class" :  "C61", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C61", "availability" : "unav"},
+          "6" : {"class" :  "C61", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C61", "availability" : "unav"},
+          "3" : {"class" :  "C61", "availability" : "unav"},
+          "4" : {"class" :  "C61", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C61", "availability" : "unav"},
+          "7" : {"class" :  "C61", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C61", "availability" : "unav"},
+          "2" : {"class" :  "C61", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C61", "availability" : "unav"},
+          "6" : {"class" :  "C61", "availability" : "unav"},
+          "7" : {"class" :  "C61", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C61", "availability" : "unav"},
+          "2" : {"class" :  "C61", "availability" : "unav"},
+          "3" : {"class" :  "C61", "availability" : "unav"},
+          "4" : {"class" :  "C61", "availability" : "unav"},
+          "5" : {"class" :  "C61", "availability" : "unav"},
+          "6" : {"class" :  "C61", "availability" : "unav"},
+          "7" : {"class" :  "C61", "availability" : "unav"}
+        }
+    },
+    "TRN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C59", "availability" : "unav"},
+          "3" : {"class" :  "C59", "availability" : "unav"},
+          "4" : {"class" :  "C59", "availability" : "unav"},
+          "5" : {"class" :  "C59", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C59", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C59", "availability" : "unav"},
+          "2" : {"class" :  "C59", "availability" : "unav"},
+          "3" : {"class" :  "C59", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C59", "availability" : "unav"},
+          "6" : {"class" :  "C59", "availability" : "unav"},
+          "7" : {"class" :  "C59", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C59", "availability" : "unav"},
+          "3" : {"class" :  "C59", "availability" : "unav"},
+          "4" : {"class" :  "C59", "availability" : "unav"},
+          "5" : {"class" :  "C59", "availability" : "unav"},
+          "6" : {"class" :  "C59", "availability" : "unav"},
+          "7" : {"class" :  "C59", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C59", "availability" : "unav"},
+          "2" : {"class" :  "C59", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C59", "availability" : "unav"},
+          "5" : {"class" :  "C59", "availability" : "unav"},
+          "6" : {"class" :  "C59", "availability" : "unav"},
+          "7" : {"class" :  "C59", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C59", "availability" : "unav"},
+          "2" : {"class" :  "C59", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C59", "availability" : "unav"},
+          "5" : {"class" :  "C59", "availability" : "unav"},
+          "6" : {"class" :  "C59", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "WET" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C58", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C58", "availability" : "unav"},
+          "5" : {"class" :  "C58", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C58", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C58", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C58", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C58", "availability" : "unav"},
+          "6" : {"class" :  "C58", "availability" : "unav"},
+          "7" : {"class" :  "C58", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C58", "availability" : "unav"},
+          "3" : {"class" :  "C58", "availability" : "unav"},
+          "4" : {"class" :  "C58", "availability" : "unav"},
+          "5" : {"class" :  "C58", "availability" : "unav"},
+          "6" : {"class" :  "C58", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C58", "availability" : "unav"},
+          "3" : {"class" :  "C58", "availability" : "unav"},
+          "4" : {"class" :  "C58", "availability" : "unav"},
+          "5" : {"class" :  "C58", "availability" : "unav"},
+          "6" : {"class" :  "C58", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C58", "availability" : "unav"},
+          "2" : {"class" :  "C58", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C58", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C58", "availability" : "unav"},
+          "7" : {"class" :  "C58", "availability" : "unav"}
+        }
+    },
+    "KPU" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C65", "availability" : "unav"},
+          "3" : {"class" :  "C65", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C65", "availability" : "unav"},
+          "6" : {"class" :  "C65", "availability" : "unav"},
+          "7" : {"class" :  "C65", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C65", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C65", "availability" : "unav"},
+          "4" : {"class" :  "C65", "availability" : "unav"},
+          "5" : {"class" :  "C65", "availability" : "unav"},
+          "6" : {"class" :  "C65", "availability" : "unav"},
+          "7" : {"class" :  "C65", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C65", "availability" : "unav"},
+          "2" : {"class" :  "C65", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C65", "availability" : "unav"},
+          "5" : {"class" :  "C65", "availability" : "unav"},
+          "6" : {"class" :  "C65", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C65", "availability" : "unav"},
+          "2" : {"class" :  "C65", "availability" : "unav"},
+          "3" : {"class" :  "C65", "availability" : "unav"},
+          "4" : {"class" :  "C65", "availability" : "unav"},
+          "5" : {"class" :  "C65", "availability" : "unav"},
+          "6" : {"class" :  "C65", "availability" : "unav"},
+          "7" : {"class" :  "C65", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "C65", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "free"},
+            "3" : {"class" :  "C65", "availability" : "unav"},
+            "4" : {"class" :  "C65", "availability" : "unav"},
+            "5" : {"class" :  "", "availability" : "free"},
+            "6" : {"class" :  "C65", "availability" : "unav"},
+            "7" : {"class" :  "C65", "availability" : "unav"}
+        }
+    },
+    "MNA" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C64", "availability" : "unav"},
+          "3" : {"class" :  "C64", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C64", "availability" : "unav"},
+          "6" : {"class" :  "C64", "availability" : "unav"},
+          "7" : {"class" :  "C64", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C64", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C64", "availability" : "unav"},
+          "4" : {"class" :  "C64", "availability" : "unav"},
+          "5" : {"class" :  "C64", "availability" : "unav"},
+          "6" : {"class" :  "C64", "availability" : "unav"},
+          "7" : {"class" :  "C64", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C64", "availability" : "unav"},
+          "2" : {"class" :  "C64", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C64", "availability" : "unav"},
+          "5" : {"class" :  "C64", "availability" : "unav"},
+          "6" : {"class" :  "C64", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C64", "availability" : "unav"},
+          "2" : {"class" :  "C64", "availability" : "unav"},
+          "3" : {"class" :  "C64", "availability" : "unav"},
+          "4" : {"class" :  "C64", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C64", "availability" : "unav"},
+          "7" : {"class" :  "C64", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "C64", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "free"},
+            "3" : {"class" :  "C64", "availability" : "unav"},
+            "4" : {"class" :  "C64", "availability" : "unav"},
+            "5" : {"class" :  "", "availability" : "free"},
+            "6" : {"class" :  "C64", "availability" : "unav"},
+            "7" : {"class" :  "C64", "availability" : "unav"}
+        }
+    },
+    "BCH" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A1", "availability" : "unav"},
+          "3" : {"class" :  "A1", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "A1", "availability" : "unav"},
+          "6" : {"class" :  "A1", "availability" : "unav"},
+          "7" : {"class" :  "A1", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A1", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A1", "availability" : "unav"},
+          "4" : {"class" :  "A12", "availability" : "unav"},
+          "5" : {"class" :  "A1", "availability" : "unav"},
+          "6" : {"class" :  "A17", "availability" : "unav"},
+          "7" : {"class" :  "A1", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A1", "availability" : "unav"},
+          "2" : {"class" :  "A1", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A1", "availability" : "unav"},
+          "5" : {"class" :  "A1", "availability" : "unav"},
+          "6" : {"class" :  "A15", "availability" : "unav"},
+          "7" : {"class" :  "A1", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A1", "availability" : "unav"},
+          "2" : {"class" :  "A1", "availability" : "unav"},
+          "3" : {"class" :  "A1", "availability" : "unav"},
+          "4" : {"class" :  "A12", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A1", "availability" : "unav"},
+          "7" : {"class" :  "A1", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "A1", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "free"},
+            "3" : {"class" :  "A1", "availability" : "unav"},
+            "4" : {"class" :  "A1", "availability" : "unav"},
+            "5" : {"class" :  "", "availability" : "free"},
+            "6" : {"class" :  "A1", "availability" : "unav"},
+            "7" : {"class" :  "A1", "availability" : "unav"}
+        }
+    },
+    "ERA" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A11", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A11", "availability" : "unav"},
+          "5" : {"class" :  "A11", "availability" : "unav"},
+          "6" : {"class" :  "A11", "availability" : "unav"},
+          "7" : {"class" :  "A11", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A11", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "A11", "availability" : "unav"},
+          "4" : {"class" :  "A11", "availability" : "unav"},
+          "5" : {"class" :  "A11", "availability" : "unav"},
+          "6" : {"class" :  "A11", "availability" : "unav"},
+          "7" : {"class" :  "A11", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A11", "availability" : "unav"},
+          "2" : {"class" :  "A11", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A11", "availability" : "unav"},
+          "5" : {"class" :  "A11", "availability" : "unav"},
+          "6" : {"class" :  "A11", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A11", "availability" : "unav"},
+          "2" : {"class" :  "A11", "availability" : "unav"},
+          "3" : {"class" :  "A11", "availability" : "unav"},
+          "4" : {"class" :  "A11", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "A11", "availability" : "unav"},
+          "7" : {"class" :  "A11", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "A11", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "meeting"},
+            "3" : {"class" :  "A11", "availability" : "unav"},
+            "4" : {"class" :  "A11", "availability" : "unav"},
+            "5" : {"class" :  "", "availability" : "free"},
+            "6" : {"class" :  "A11", "availability" : "unav"},
+            "7" : {"class" :  "A11", "availability" : "unav"}
+        }
+    },
+    "MCE" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A4", "availability" : "unav"},
+          "3" : {"class" :  "A4", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "A4", "availability" : "unav"},
+          "6" : {"class" :  "A4", "availability" : "unav"},
+          "7" : {"class" :  "A4", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A4", "availability" : "unav"},
+          "2" : {"class" :  "A4", "availability" : "unav"},
+          "3" : {"class" :  "A4", "availability" : "unav"},
+          "4" : {"class" :  "A4", "availability" : "unav"},
+          "5" : {"class" :  "A4", "availability" : "unav"},
+          "6" : {"class" :  "A4", "availability" : "unav"},
+          "7" : {"class" :  "A4", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A4", "availability" : "unav"},
+          "2" : {"class" :  "A4", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A4", "availability" : "unav"},
+          "5" : {"class" :  "A4", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A4", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A4", "availability" : "unav"},
+          "2" : {"class" :  "A4", "availability" : "unav"},
+          "3" : {"class" :  "A4", "availability" : "unav"},
+          "4" : {"class" :  "A4", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A4", "availability" : "unav"},
+          "7" : {"class" :  "A4", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "A4", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "free"},
+            "3" : {"class" :  "", "availability" : "free"},
+            "4" : {"class" :  "A4", "availability" : "unav"},
+            "5" : {"class" :  "A4", "availability" : "unav"},
+            "6" : {"class" :  "A4", "availability" : "unav"},
+            "7" : {"class" :  "A4", "availability" : "unav"}
+        }
+    },
+    "SAY" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A7", "availability" : "unav"},
+          "3" : {"class" :  "A7", "availability" : "unav"},
+          "4" : {"class" :  "A7", "availability" : "unav"},
+          "5" : {"class" :  "A7", "availability" : "unav"},
+          "6" : {"class" :  "A7", "availability" : "unav"},
+          "7" : {"class" :  "A7", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A7", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A7", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "A7", "availability" : "unav"},
+          "6" : {"class" :  "A7", "availability" : "unav"},
+          "7" : {"class" :  "A7", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A7", "availability" : "unav"},
+          "2" : {"class" :  "A7", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A7", "availability" : "unav"},
+          "5" : {"class" :  "A7", "availability" : "unav"},
+          "6" : {"class" :  "A7", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A7", "availability" : "unav"},
+          "2" : {"class" :  "A7", "availability" : "unav"},
+          "3" : {"class" :  "A7", "availability" : "unav"},
+          "4" : {"class" :  "A7", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A7", "availability" : "unav"},
+          "7" : {"class" :  "A7", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A7", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A7", "availability" : "unav"},
+          "4" : {"class" :  "A7", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A7", "availability" : "unav"},
+          "7" : {"class" :  "A7", "availability" : "unav"}
+        }
+    },
+    "VMK" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A5", "availability" : "unav"},
+          "3" : {"class" :  "A5", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "A5", "availability" : "unav"},
+          "6" : {"class" :  "A5", "availability" : "unav"},
+          "7" : {"class" :  "A5", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A5", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A5", "availability" : "unav"},
+          "4" : {"class" :  "A5", "availability" : "unav"},
+          "5" : {"class" :  "A5", "availability" : "unav"},
+          "6" : {"class" :  "A5", "availability" : "unav"},
+          "7" : {"class" :  "A5", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A5", "availability" : "unav"},
+          "2" : {"class" :  "A5", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A5", "availability" : "unav"},
+          "5" : {"class" :  "A5", "availability" : "unav"},
+          "6" : {"class" :  "A5", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A5", "availability" : "unav"},
+          "2" : {"class" :  "A5", "availability" : "unav"},
+          "3" : {"class" :  "A5", "availability" : "unav"},
+          "4" : {"class" :  "A5", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A5", "availability" : "unav"},
+          "7" : {"class" :  "A5", "availability" : "unav"}
+        },
+      "day5" :
+        {
+            "1" : {"class" :  "A5", "availability" : "unav"},
+            "2" : {"class" :  "", "availability" : "free"},
+            "3" : {"class" :  "A5", "availability" : "unav"},
+            "4" : {"class" :  "A5", "availability" : "unav"},
+            "5" : {"class" :  "", "availability" : "free"},
+            "6" : {"class" :  "A5", "availability" : "unav"},
+            "7" : {"class" :  "A5", "availability" : "unav"}
+        }
+    },
+    "ELS" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C17", "availability" : "unav"},
+          "3" : {"class" :  "C17", "availability" : "unav"},
+          "4" : {"class" :  "C17", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C17", "availability" : "unav"},
+          "7" : {"class" :  "C17", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C17", "availability" : "unav"},
+          "2" : {"class" :  "C17", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C17", "availability" : "unav"},
+          "5" : {"class" :  "C17", "availability" : "unav"},
+          "6" : {"class" :  "C17", "availability" : "unav"},
+          "7" : {"class" :  "C17", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C17", "availability" : "unav"},
+          "2" : {"class" :  "C17", "availability" : "unav"},
+          "3" : {"class" :  "C17", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C17", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C17", "availability" : "unav"},
+          "2" : {"class" :  "C17", "availability" : "unav"},
+          "3" : {"class" :  "C17", "availability" : "unav"},
+          "4" : {"class" :  "C17", "availability" : "unav"},
+          "5" : {"class" :  "C17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C17", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C17", "availability" : "unav"},
+          "3" : {"class" :  "C17", "availability" : "unav"},
+          "4" : {"class" :  "C17", "availability" : "unav"},
+          "5" : {"class" :  "C17", "availability" : "unav"},
+          "6" : {"class" :  "C17", "availability" : "unav"},
+          "7" : {"class" :  "C17", "availability" : "unav"}
+        }
+    },
+    "GDG" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C18", "availability" : "unav"},
+          "3" : {"class" :  "C18", "availability" : "unav"},
+          "4" : {"class" :  "C18", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C18", "availability" : "unav"},
+          "7" : {"class" :  "C18", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C18", "availability" : "unav"},
+          "2" : {"class" :  "C18", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C18", "availability" : "unav"},
+          "5" : {"class" :  "C18", "availability" : "unav"},
+          "6" : {"class" :  "C18", "availability" : "unav"},
+          "7" : {"class" :  "C18", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C18", "availability" : "unav"},
+          "2" : {"class" :  "C18", "availability" : "unav"},
+          "3" : {"class" :  "C18", "availability" : "unav"},
+          "4" : {"class" :  "C18", "availability" : "unav"},
+          "5" : {"class" :  "C18", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C18", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C18", "availability" : "unav"},
+          "2" : {"class" :  "C18", "availability" : "unav"},
+          "3" : {"class" :  "C18", "availability" : "unav"},
+          "4" : {"class" :  "C18", "availability" : "unav"},
+          "5" : {"class" :  "C18", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C18", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C18", "availability" : "unav"},
+          "2" : {"class" :  "C18", "availability" : "unav"},
+          "3" : {"class" :  "C18", "availability" : "unav"},
+          "4" : {"class" :  "C18", "availability" : "unav"},
+          "5" : {"class" :  "C18", "availability" : "unav"},
+          "6" : {"class" :  "C18", "availability" : "unav"},
+          "7" : {"class" :  "C18", "availability" : "unav"}
+        }
+    },
+    "MON" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C46", "availability" : "unav"},
+          "3" : {"class" :  "C46", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C46", "availability" : "unav"},
+          "7" : {"class" :  "C46", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C46", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C46", "availability" : "unav"},
+          "5" : {"class" :  "C46", "availability" : "unav"},
+          "6" : {"class" :  "C46", "availability" : "unav"},
+          "7" : {"class" :  "C46", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C46", "availability" : "unav"},
+          "2" : {"class" :  "C46", "availability" : "unav"},
+          "3" : {"class" :  "C46", "availability" : "unav"},
+          "4" : {"class" :  "C46", "availability" : "unav"},
+          "5" : {"class" :  "C46", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C46", "availability" : "unav"},
+          "2" : {"class" :  "C46", "availability" : "unav"},
+          "3" : {"class" :  "C46", "availability" : "unav"},
+          "4" : {"class" :  "C46", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C46", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C46", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C46", "availability" : "unav"},
+          "4" : {"class" :  "C46", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C46", "availability" : "unav"},
+          "7" : {"class" :  "C46", "availability" : "unav"}
+        }
+    },
+    "GYS" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C57", "availability" : "unav"},
+          "3" : {"class" :  "C57", "availability" : "unav"},
+          "4" : {"class" :  "C57", "availability" : "unav"},
+          "5" : {"class" :  "C57", "availability" : "unav"},
+          "6" : {"class" :  "C57", "availability" : "unav"},
+          "7" : {"class" :  "C57", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C57", "availability" : "unav"},
+          "2" : {"class" :  "C57", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C57", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C57", "availability" : "unav"},
+          "7" : {"class" :  "C57", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C57", "availability" : "unav"},
+          "2" : {"class" :  "C57", "availability" : "unav"},
+          "3" : {"class" :  "C57", "availability" : "unav"},
+          "4" : {"class" :  "C57", "availability" : "unav"},
+          "5" : {"class" :  "C57", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C57", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C57", "availability" : "unav"},
+          "2" : {"class" :  "C57", "availability" : "unav"},
+          "3" : {"class" :  "C57", "availability" : "unav"},
+          "4" : {"class" :  "C57", "availability" : "unav"},
+          "5" : {"class" :  "C57", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C57", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C57", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C57", "availability" : "unav"},
+          "4" : {"class" :  "C57", "availability" : "unav"},
+          "5" : {"class" :  "C57", "availability" : "unav"},
+          "6" : {"class" :  "C57", "availability" : "unav"},
+          "7" : {"class" :  "C57", "availability" : "unav"}
+        }
+    },
+    "NOR" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C56", "availability" : "unav"},
+          "7" : {"class" :  "C56", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "C56", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "C56", "availability" : "unav"},
+          "4" : {"class" :  "C56", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C56", "availability" : "unav"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C56", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "C56", "availability" : "unav"},
+          "4" : {"class" :  "C56", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "DUT" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C34", "availability" : "unav"},
+          "3" : {"class" :  "C34", "availability" : "unav"},
+          "4" : {"class" :  "C34", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C34", "availability" : "unav"},
+          "7" : {"class" :  "C34", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C34", "availability" : "meeting"},
+          "2" : {"class" :  "C34", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C34", "availability" : "unav"},
+          "5" : {"class" :  "C34", "availability" : "unav"},
+          "6" : {"class" :  "C34", "availability" : "unav"},
+          "7" : {"class" :  "C34", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C34", "availability" : "unav"},
+          "2" : {"class" :  "C34", "availability" : "unav"},
+          "3" : {"class" :  "C34", "availability" : "unav"},
+          "4" : {"class" :  "C34", "availability" : "unav"},
+          "5" : {"class" :  "C34", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C34", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C34", "availability" : "unav"},
+          "2" : {"class" :  "C34", "availability" : "unav"},
+          "3" : {"class" :  "C34", "availability" : "unav"},
+          "4" : {"class" :  "C34", "availability" : "unav"},
+          "5" : {"class" :  "C34", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C34", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C34", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C34", "availability" : "unav"},
+          "4" : {"class" :  "C34", "availability" : "unav"},
+          "5" : {"class" :  "C34", "availability" : "unav"},
+          "6" : {"class" :  "C34", "availability" : "unav"},
+          "7" : {"class" :  "C34", "availability" : "unav"}
+        }
+    },
+    "SOL" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A17", "availability" : "unav"},
+          "4" : {"class" :  "A17", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "A17", "availability" : "unav"},
+          "7" : {"class" :  "A17", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "meeting"},
+          "2" : {"class" :  "A17", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A17", "availability" : "unav"},
+          "5" : {"class" :  "A17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A17", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A17", "availability" : "unav"},
+          "2" : {"class" :  "A17", "availability" : "unav"},
+          "3" : {"class" :  "A17", "availability" : "unav"},
+          "4" : {"class" :  "A17", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A17", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A17", "availability" : "unav"},
+          "2" : {"class" :  "A17", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A17", "availability" : "free"},
+          "5" : {"class" :  "A17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A17", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A17", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A17", "availability" : "unav"},
+          "4" : {"class" :  "A17", "availability" : "unav"},
+          "5" : {"class" :  "A17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A17", "availability" : "unav"}
+        }
+    },
+    "SPG" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C47", "availability" : "unav"},
+          "4" : {"class" :  "C47", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C47", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C47", "availability" : "unav"},
+          "4" : {"class" :  "C47", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C47", "availability" : "unav"},
+          "7" : {"class" :  "C47", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C47", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C47", "availability" : "unav"},
+          "4" : {"class" :  "C47", "availability" : "unav"},
+          "5" : {"class" :  "C47", "availability" : "unav"},
+          "6" : {"class" :  "C47", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C47", "availability" : "meeting"},
+          "2" : {"class" :  "C47", "availability" : "unav"},
+          "3" : {"class" :  "C47", "availability" : "unav"},
+          "4" : {"class" :  "C47", "availability" : "unav"},
+          "5" : {"class" :  "C47", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C47", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C47", "availability" : "unav"},
+          "2" : {"class" :  "C47", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C47", "availability" : "unav"},
+          "7" : {"class" :  "C47", "availability" : "unav"}
+        }
+    },
+    "ASH" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S7", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S7", "availability" : "unav"},
+          "5" : {"class" :  "S7", "availability" : "unav"},
+          "6" : {"class" :  "S7", "availability" : "unav"},
+          "7" : {"class" :  "S7", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S7", "availability" : "unav"},
+          "2" : {"class" :  "S7", "availability" : "unav"},
+          "3" : {"class" :  "S7", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S7", "availability" : "unav"},
+          "6" : {"class" :  "S7", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S7", "availability" : "unav"},
+          "2" : {"class" :  "S7", "availability" : "unav"},
+          "3" : {"class" :  "S7", "availability" : "unav"},
+          "4" : {"class" :  "S7", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S7", "availability" : "unav"},
+          "7" : {"class" :  "S7", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S7", "availability" : "unav"},
+          "2" : {"class" :  "S7", "availability" : "unav"},
+          "3" : {"class" :  "S7", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S7", "availability" : "unav"},
+          "6" : {"class" :  "S7", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S7", "availability" : "unav"},
+          "2" : {"class" :  "S7", "availability" : "unav"},
+          "3" : {"class" :  "S7", "availability" : "unav"},
+          "4" : {"class" :  "S7", "availability" : "unav"},
+          "5" : {"class" :  "S7", "availability" : "unav"},
+          "6" : {"class" :  "S7", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "HTW" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S9", "availability" : "unav"},
+          "5" : {"class" :  "S9", "availability" : "unav"},
+          "6" : {"class" :  "S9", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "S9", "availability" : "unav"},
+          "3" : {"class" :  "S9", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S9", "availability" : "unav"},
+          "6" : {"class" :  "S9", "availability" : "unav"},
+          "7" : {"class" :  "S9", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S9", "availability" : "unav"},
+          "7" : {"class" :  "S9", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S9", "availability" : "unav"},
+          "2" : {"class" :  "S9", "availability" : "unav"},
+          "3" : {"class" :  "S9", "availability" : "unav"},
+          "4" : {"class" :  "S9", "availability" : "unav"},
+          "5" : {"class" :  "S9", "availability" : "unav"},
+          "6" : {"class" :  "S9", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S9", "availability" : "unav"},
+          "2" : {"class" :  "S9", "availability" : "unav"},
+          "3" : {"class" :  "S9", "availability" : "unav"},
+          "4" : {"class" :  "S9", "availability" : "unav"},
+          "5" : {"class" :  "S9", "availability" : "unav"},
+          "6" : {"class" :  "S9", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "MGO" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S8", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S8", "availability" : "unav"},
+          "5" : {"class" :  "S8", "availability" : "unav"},
+          "6" : {"class" :  "S8", "availability" : "unav"},
+          "7" : {"class" :  "S8", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S8", "availability" : "unav"},
+          "2" : {"class" :  "S8", "availability" : "unav"},
+          "3" : {"class" :  "S8", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S8", "availability" : "unav"},
+          "6" : {"class" :  "S8", "availability" : "unav"},
+          "7" : {"class" :  "S8", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S8", "availability" : "unav"},
+          "2" : {"class" :  "S8", "availability" : "unav"},
+          "3" : {"class" :  "S8", "availability" : "unav"},
+          "4" : {"class" :  "S8", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S8", "availability" : "unav"},
+          "7" : {"class" :  "S8", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S8", "availability" : "unav"},
+          "2" : {"class" :  "S8", "availability" : "unav"},
+          "3" : {"class" :  "S8", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S8", "availability" : "unav"},
+          "6" : {"class" :  "S8", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S8", "availability" : "unav"},
+          "2" : {"class" :  "S8", "availability" : "unav"},
+          "3" : {"class" :  "S8", "availability" : "unav"},
+          "4" : {"class" :  "S8", "availability" : "unav"},
+          "5" : {"class" :  "S8", "availability" : "unav"},
+          "6" : {"class" :  "S8", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "DOO" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S3", "availability" : "unav"},
+          "3" : {"class" :  "S3", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S3", "availability" : "unav"},
+          "6" : {"class" :  "S3", "availability" : "unav"},
+          "7" : {"class" :  "S3", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S3", "availability" : "unav"},
+          "2" : {"class" :  "S3", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S3", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S3", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S3", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S3", "availability" : "unav"},
+          "4" : {"class" :  "S3", "availability" : "unav"},
+          "5" : {"class" :  "S3", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S3", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S3", "availability" : "unav"},
+          "2" : {"class" :  "S3", "availability" : "unav"},
+          "3" : {"class" :  "S3", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S3", "availability" : "unav"},
+          "7" : {"class" :  "S3", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S3", "availability" : "unav"},
+          "2" : {"class" :  "S3", "availability" : "unav"},
+          "3" : {"class" :  "S3", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S3", "availability" : "unav"},
+          "6" : {"class" :  "S3", "availability" : "unav"},
+          "7" : {"class" :  "S3", "availability" : "unav"}
+        }
+    },
+    "COL" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S46", "availability" : "unav"},
+          "4" : {"class" :  "S46", "availability" : "unav"},
+          "5" : {"class" :  "S46", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S46", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S46", "availability" : "unav"},
+          "2" : {"class" :  "S46", "availability" : "unav"},
+          "3" : {"class" :  "S46", "availability" : "unav"},
+          "4" : {"class" :  "S46", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S46", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S46", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S46", "availability" : "unav"},
+          "4" : {"class" :  "S46", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S46", "availability" : "unav"},
+          "7" : {"class" :  "S46", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "S46", "availability" : "unav"},
+          "3" : {"class" :  "S46", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S46", "availability" : "unav"},
+          "6" : {"class" :  "S46", "availability" : "unav"},
+          "7" : {"class" :  "S46", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S46", "availability" : "unav"},
+          "2" : {"class" :  "S46", "availability" : "unav"},
+          "3" : {"class" :  "S46", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S46", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S46", "availability" : "unav"}
+        }
+    },
+    "FHM" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S42", "availability" : "unav"},
+          "4" : {"class" :  "S42", "availability" : "unav"},
+          "5" : {"class" :  "S42", "availability" : "unav"},
+          "6" : {"class" :  "S42", "availability" : "unav"},
+          "7" : {"class" :  "S42", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "S42", "availability" : "unav"},
+          "3" : {"class" :  "S42", "availability" : "unav"},
+          "4" : {"class" :  "S42", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S42", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S42", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S42", "availability" : "unav"},
+          "4" : {"class" :  "S42", "availability" : "unav"},
+          "5" : {"class" :  "S42", "availability" : "unav"},
+          "6" : {"class" :  "S42", "availability" : "unav"},
+          "7" : {"class" :  "S42", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S42", "availability" : "unav"},
+          "2" : {"class" :  "S42", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S42", "availability" : "unav"},
+          "6" : {"class" :  "S42", "availability" : "unav"},
+          "7" : {"class" :  "S42", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S42", "availability" : "unav"},
+          "2" : {"class" :  "S42", "availability" : "unav"},
+          "3" : {"class" :  "S42", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S42", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S42", "availability" : "unav"}
+        }
+    },
+    "CRR" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S41", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S41", "availability" : "unav"},
+          "5" : {"class" :  "S41", "availability" : "unav"},
+          "6" : {"class" :  "S41", "availability" : "unav"},
+          "7" : {"class" :  "S41", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S41", "availability" : "unav"},
+          "2" : {"class" :  "S41", "availability" : "unav"},
+          "3" : {"class" :  "S41", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S41", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "S41", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S41", "availability" : "unav"},
+          "6" : {"class" :  "S41", "availability" : "unav"},
+          "7" : {"class" :  "S41", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S41", "availability" : "unav"},
+          "2" : {"class" :  "S41", "availability" : "unav"},
+          "3" : {"class" :  "S41", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "meeting"},
+          "5" : {"class" :  "S41", "availability" : "unav"},
+          "6" : {"class" :  "S41", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "S41", "availability" : "unav"},
+          "3" : {"class" :  "S41", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "S41", "availability" : "unav"},
+          "6" : {"class" :  "S41", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "CZN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C51", "availability" : "unav"},
+          "4" : {"class" :  "C51", "availability" : "unav"},
+          "5" : {"class" :  "A4", "availability" : "unav"},
+          "6" : {"class" :  "C51", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A4", "availability" : "unav"},
+          "3" : {"class" :  "C51", "availability" : "unav"},
+          "4" : {"class" :  "C51", "availability" : "unav"},
+          "5" : {"class" :  "C51", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C51", "availability" : "unav"},
+          "3" : {"class" :  "C51", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C51", "availability" : "unav"},
+          "7" : {"class" :  "A4", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C51", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C51", "availability" : "meeting"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A4", "availability" : "unav"},
+          "7" : {"class" :  "C51", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C51", "availability" : "unav"},
+          "3" : {"class" :  "C58", "availability" : "unav"},
+          "4" : {"class" :  "C51", "availability" : "unav"},
+          "5" : {"class" :  "A4", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C51", "availability" : "unav"}
+        }
+    },
+    "FND" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C56", "availability" : "unav"},
+          "5" : {"class" :  "C56", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C56", "availability" : "unav"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "C56", "availability" : "unav"},
+          "4" : {"class" :  "C56", "availability" : "unav"},
+          "5" : {"class" :  "C56", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "C56", "availability" : "unav"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "C56", "availability" : "unav"},
+          "7" : {"class" :  "C56", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "C56", "availability" : "unav"},
+          "5" : {"class" :  "C56", "availability" : "unav"},
+          "6" : {"class" :  "C56", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C56", "availability" : "unav"},
+          "3" : {"class" :  "C58", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C56", "availability" : "unav"},
+          "6" : {"class" :  "C56", "availability" : "unav"},
+          "7" : {"class" :  "C56", "availability" : "unav"}
+        }
+    },
+    "NEL" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C54", "availability" : "unav"},
+          "3" : {"class" :  "C54", "availability" : "unav"},
+          "4" : {"class" :  "C54", "availability" : "unav"},
+          "5" : {"class" :  "C54", "availability" : "unav"},
+          "6" : {"class" :  "C54", "availability" : "unav"},
+          "7" : {"class" :  "C54", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C54", "availability" : "unav"},
+          "2" : {"class" :  "C54", "availability" : "unav"},
+          "3" : {"class" :  "C54", "availability" : "unav"},
+          "4" : {"class" :  "C54", "availability" : "unav"},
+          "5" : {"class" :  "C54", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C54", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C54", "availability" : "unav"},
+          "3" : {"class" :  "C54", "availability" : "unav"},
+          "4" : {"class" :  "C54", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C54", "availability" : "unav"},
+          "7" : {"class" :  "C54", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C54", "availability" : "unav"},
+          "2" : {"class" :  "C54", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "C54", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C54", "availability" : "unav"},
+          "7" : {"class" :  "C54", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C54", "availability" : "unav"},
+          "2" : {"class" :  "C54", "availability" : "unav"},
+          "3" : {"class" :  "C54", "availability" : "unav"},
+          "4" : {"class" :  "C54", "availability" : "unav"},
+          "5" : {"class" :  "C54", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C54", "availability" : "unav"}
+        }
+    },
+    "SFD" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "C49", "availability" : "unav"},
+          "5" : {"class" :  "C49", "availability" : "unav"},
+          "6" : {"class" :  "C49", "availability" : "unav"},
+          "7" : {"class" :  "C49", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "C49", "availability" : "unav"},
+          "3" : {"class" :  "C49", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C49", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "C49", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "meeting"},
+          "2" : {"class" :  "C49", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "C49", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "C49", "availability" : "unav"},
+          "7" : {"class" :  "C49", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C49", "availability" : "unav"},
+          "2" : {"class" :  "C49", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "C49", "availability" : "free"},
+          "5" : {"class" :  "C49", "availability" : "unav"},
+          "6" : {"class" :  "C49", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C49", "availability" : "unav"},
+          "2" : {"class" :  "C49", "availability" : "unav"},
+          "3" : {"class" :  "C49", "availability" : "unav"},
+          "4" : {"class" :  "C49", "availability" : "unav"},
+          "5" : {"class" :  "C49", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C49", "availability" : "meeting"}
+        }
+    },
+    "VOS" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "C19", "availability" : "unav"},
+          "3" : {"class" :  "C19", "availability" : "unav"},
+          "4" : {"class" :  "C19", "availability" : "unav"},
+          "5" : {"class" :  "C19", "availability" : "unav"},
+          "6" : {"class" :  "C19", "availability" : "unav"},
+          "7" : {"class" :  "C19", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "C19", "availability" : "unav"},
+          "3" : {"class" :  "C19", "availability" : "unav"},
+          "4" : {"class" :  "C19", "availability" : "unav"},
+          "5" : {"class" :  "C19", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "C19", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "C19", "availability" : "unav"},
+          "3" : {"class" :  "C19", "availability" : "unav"},
+          "4" : {"class" :  "C19", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "C19", "availability" : "unav"},
+          "7" : {"class" :  "C19", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "C19", "availability" : "unav"},
+          "2" : {"class" :  "C19", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "C19", "availability" : "unav"},
+          "6" : {"class" :  "C19", "availability" : "unav"},
+          "7" : {"class" :  "C19", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "C19", "availability" : "unav"},
+          "2" : {"class" :  "C65", "availability" : "unav"},
+          "3" : {"class" :  "C19", "availability" : "unav"},
+          "4" : {"class" :  "C19", "availability" : "unav"},
+          "5" : {"class" :  "C19", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "C58", "availability" : "unav"}
+        }
+    },
+    "COE" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A9", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A9", "availability" : "unav"},
+          "6" : {"class" :  "A9", "availability" : "unav"},
+          "7" : {"class" :  "A9", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A9", "availability" : "unav"},
+          "3" : {"class" :  "A9", "availability" : "unav"},
+          "4" : {"class" :  "A9", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A9", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A9", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A9", "availability" : "unav"},
+          "4" : {"class" :  "A9", "availability" : "unav"},
+          "5" : {"class" :  "A9", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A9", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A9", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A9", "availability" : "unav"},
+          "6" : {"class" :  "A9", "availability" : "unav"},
+          "7" : {"class" :  "A9", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A9", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A9", "availability" : "unav"},
+          "5" : {"class" :  "A9", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A9", "availability" : "unav"}
+        }
+    },
+    "KMR" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A10", "availability" : "unav"},
+          "3" : {"class" :  "A10", "availability" : "unav"},
+          "4" : {"class" :  "A10", "availability" : "unav"},
+          "5" : {"class" :  "A10", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A10", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A10", "availability" : "unav"},
+          "3" : {"class" :  "A10", "availability" : "unav"},
+          "4" : {"class" :  "A10", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "A10", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A10", "availability" : "unav"},
+          "4" : {"class" :  "A10", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A10", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A10", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A10", "availability" : "unav"},
+          "5" : {"class" :  "A10", "availability" : "unav"},
+          "6" : {"class" :  "A10", "availability" : "unav"},
+          "7" : {"class" :  "A10", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A10", "availability" : "unav"},
+          "2" : {"class" :  "A10", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A10", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A10", "availability" : "unav"}
+        }
+    },
+    "OSH" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A8", "availability" : "unav"},
+          "3" : {"class" :  "A8", "availability" : "unav"},
+          "4" : {"class" :  "A8", "availability" : "unav"},
+          "5" : {"class" :  "A8", "availability" : "unav"},
+          "6" : {"class" :  "A8", "availability" : "unav"},
+          "7" : {"class" :  "A8", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A8", "availability" : "unav"},
+          "2" : {"class" :  "A8", "availability" : "unav"},
+          "3" : {"class" :  "A8", "availability" : "unav"},
+          "4" : {"class" :  "A8", "availability" : "unav"},
+          "5" : {"class" :  "A8", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "A8", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A8", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A8", "availability" : "unav"},
+          "4" : {"class" :  "A8", "availability" : "unav"},
+          "5" : {"class" :  "A8", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A8", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A8", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A8", "availability" : "unav"},
+          "5" : {"class" :  "A8", "availability" : "unav"},
+          "6" : {"class" :  "A8", "availability" : "unav"},
+          "7" : {"class" :  "A8", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A8", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A8", "availability" : "unav"},
+          "6" : {"class" :  "A8", "availability" : "unav"},
+          "7" : {"class" :  "A8", "availability" : "unav"}
+        }
+    },
+    "FET" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "A7/EC", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "A10/EC", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "A4/EC", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "A10/EC", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "A7/EC", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "A8/EC", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "A4/EC", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A8/EC", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A8/EC", "availability" : "unav"},
+          "5" : {"class" :  "A7/EC", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "VIV" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A14", "availability" : "unav"},
+          "3" : {"class" :  "A14", "availability" : "unav"},
+          "4" : {"class" :  "A14", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A14", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A14", "availability" : "unav"},
+          "4" : {"class" :  "A14", "availability" : "unav"},
+          "5" : {"class" :  "A14", "availability" : "unav"},
+          "6" : {"class" :  "A14", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A14", "availability" : "unav"},
+          "2" : {"class" :  "A14", "availability" : "unav"},
+          "3" : {"class" :  "A14", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A14", "availability" : "unav"},
+          "6" : {"class" :  "A14", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A14", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A14", "availability" : "unav"},
+          "4" : {"class" :  "A14", "availability" : "unav"},
+          "5" : {"class" :  "A14", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A14", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A14", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A14", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A14", "availability" : "unav"},
+          "7" : {"class" :  "A14", "availability" : "unav"}
+        }
+    },
+    "EBT" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A18", "availability" : "unav"},
+          "3" : {"class" :  "A18", "availability" : "unav"},
+          "4" : {"class" :  "A18", "availability" : "unav"},
+          "5" : {"class" :  "A18", "availability" : "unav"},
+          "6" : {"class" :  "A18", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A18", "availability" : "unav"},
+          "3" : {"class" :  "A18", "availability" : "unav"},
+          "4" : {"class" :  "A18", "availability" : "unav"},
+          "5" : {"class" :  "A18", "availability" : "unav"},
+          "6" : {"class" :  "A18", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A18", "availability" : "unav"},
+          "2" : {"class" :  "A18", "availability" : "unav"},
+          "3" : {"class" :  "A18", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A18", "availability" : "unav"},
+          "6" : {"class" :  "A18", "availability" : "unav"},
+          "7" : {"class" :  "A18", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A18", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A18", "availability" : "unav"},
+          "4" : {"class" :  "A18", "availability" : "unav"},
+          "5" : {"class" :  "A18", "availability" : "unav"},
+          "6" : {"class" :  "A18", "availability" : "unav"},
+          "7" : {"class" :  "A18", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A18", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A18", "availability" : "unav"},
+          "5" : {"class" :  "A18", "availability" : "unav"},
+          "6" : {"class" :  "A18", "availability" : "unav"},
+          "7" : {"class" :  "A18", "availability" : "unav"}
+        }
+    },
+    "MIN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "A12", "availability" : "unav"},
+          "6" : {"class" :  "A12", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A12", "availability" : "unav"},
+          "3" : {"class" :  "A12", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "A12", "availability" : "unav"},
+          "6" : {"class" :  "A12", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A12", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "A12", "availability" : "unav"},
+          "5" : {"class" :  "A12", "availability" : "unav"},
+          "6" : {"class" :  "A12", "availability" : "unav"},
+          "7" : {"class" :  "A12", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A12", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "A12", "availability" : "unav"},
+          "4" : {"class" :  "A12", "availability" : "unav"},
+          "5" : {"class" :  "A12", "availability" : "unav"},
+          "6" : {"class" :  "A12", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "A12", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "A12", "availability" : "unav"},
+          "5" : {"class" :  "A12", "availability" : "unav"},
+          "6" : {"class" :  "A12", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "HTH" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "A15", "availability" : "unav"},
+          "3" : {"class" :  "A15", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A15", "availability" : "unav"},
+          "6" : {"class" :  "A15", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "meeting"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A15", "availability" : "unav"},
+          "2" : {"class" :  "A15", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "A15", "availability" : "unav"},
+          "5" : {"class" :  "A15", "availability" : "unav"},
+          "6" : {"class" :  "A15", "availability" : "unav"},
+          "7" : {"class" :  "A15", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "A15", "availability" : "unav"},
+          "2" : {"class" :  "A15", "availability" : "unav"},
+          "3" : {"class" :  "A15", "availability" : "unav"},
+          "4" : {"class" :  "A15", "availability" : "unav"},
+          "5" : {"class" :  "A15", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A15", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "meeting"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "A15", "availability" : "unav"},
+          "4" : {"class" :  "A15", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A15", "availability" : "unav"},
+          "7" : {"class" :  "A15", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "A15", "availability" : "unav"},
+          "2" : {"class" :  "A15", "availability" : "unav"},
+          "3" : {"class" :  "A15", "availability" : "unav"},
+          "4" : {"class" :  "A15", "availability" : "unav"},
+          "5" : {"class" :  "A15", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A15", "availability" : "unav"}
+        }
+    },
+    "BSP" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S10", "availability" : "unav"},
+          "3" : {"class" :  "S10", "availability" : "unav"},
+          "4" : {"class" :  "S10", "availability" : "unav"},
+          "5" : {"class" :  "S10", "availability" : "unav"},
+          "6" : {"class" :  "S10", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "meeting"},
+          "2" : {"class" :  "S10", "availability" : "unav"},
+          "3" : {"class" :  "S10", "availability" : "unav"},
+          "4" : {"class" :  "S10", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "S10", "availability" : "unav"},
+          "7" : {"class" :  "S10", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S10", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S10", "availability" : "unav"},
+          "4" : {"class" :  "S10", "availability" : "unav"},
+          "5" : {"class" :  "S10", "availability" : "unav"},
+          "6" : {"class" :  "S10", "availability" : "unav"},
+          "7" : {"class" :  "S10", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "S10", "availability" : "unav"},
+          "4" : {"class" :  "S10", "availability" : "unav"},
+          "5" : {"class" :  "S10", "availability" : "unav"},
+          "6" : {"class" :  "S10", "availability" : "unav"},
+          "7" : {"class" :  "S10", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S10", "availability" : "unav"},
+          "2" : {"class" :  "S10", "availability" : "unav"},
+          "3" : {"class" :  "S10", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S10", "availability" : "unav"},
+          "6" : {"class" :  "S10", "availability" : "unav"},
+          "7" : {"class" :  "S10", "availability" : "unav"}
+        }
+    },
+    "CHA" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "S21", "availability" : "unav"},
+          "3" : {"class" :  "S21", "availability" : "unav"},
+          "4" : {"class" :  "S21", "availability" : "unav"},
+          "5" : {"class" :  "S21", "availability" : "unav"},
+          "6" : {"class" :  "S21", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S21", "availability" : "unav"},
+          "2" : {"class" :  "S21", "availability" : "unav"},
+          "3" : {"class" :  "S21", "availability" : "unav"},
+          "4" : {"class" :  "S21", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "S21", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "S21", "availability" : "unav"},
+          "2" : {"class" :  "S21", "availability" : "unav"},
+          "3" : {"class" :  "S21", "availability" : "unav"},
+          "4" : {"class" :  "S21", "availability" : "unav"},
+          "5" : {"class" :  "S21", "availability" : "unav"},
+          "6" : {"class" :  "S21", "availability" : "unav"},
+          "7" : {"class" :  "S21", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "meeting"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "S21", "availability" : "unav"},
+          "5" : {"class" :  "S21", "availability" : "unav"},
+          "6" : {"class" :  "S21", "availability" : "unav"},
+          "7" : {"class" :  "S21", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "S21", "availability" : "unav"},
+          "2" : {"class" :  "S21", "availability" : "unav"},
+          "3" : {"class" :  "S21", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "S21", "availability" : "unav"},
+          "6" : {"class" :  "S21", "availability" : "unav"},
+          "7" : {"class" :  "S21", "availability" : "unav"}
+        }
+    },
+    "HAR" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "M", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "M", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "M", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "M", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "M", "availability" : "unav"},
+          "2" : {"class" :  "M", "availability" : "unav"},
+          "3" : {"class" :  "M", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "M", "availability" : "unav"},
+          "2" : {"class" :  "M", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "M", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "M", "availability" : "unav"},
+          "3" : {"class" :  "M", "availability" : "unav"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "M", "availability" : "unav"}
+        }
+    },
+    "PAX" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "STM" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "M", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "M", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "PTS" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "M", "availability" : "unav"},
+          "2" : {"class" :  "M", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "M", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "M", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        }
+    },
+    "HNY" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "LIB", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "LIB", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "", "availability" : "upres"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "", "availability" : "upres"},
+          "3" : {"class" :  "LIB", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "LIB", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "", "availability" : "upres"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "upres"},
+          "2" : {"class" :  "LIB", "availability" : "unav"},
+          "3" : {"class" :  "LIB", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "upres"},
+          "5" : {"class" :  "", "availability" : "upres"},
+          "6" : {"class" :  "", "availability" : "upres"},
+          "7" : {"class" :  "LIB", "availability" : "unav"}
+        }
+    },
+    "HM" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "C55", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "C61", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "C61", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "C55", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "C34", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "SNE" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "obs", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "meeting"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "A12", "availability" : "unav"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A12", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "?", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A17", "availability" : "unav"},
+          "7" : {"class" :  "A12", "availability" : "unav"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "?", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "A12", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "A17", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "A15", "availability" : "unav"},
+          "2" : {"class" :  "A15", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "obs", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "A17", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "meeting"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "obs", "availability" : "unav"}
+        }
+    },
+    "WRN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "C34", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "A15", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    },
+    "MSN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "?", "availability" : "unav"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "A14", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "?", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "?", "availability" : "unav"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "?", "availability" : "unav"},
+          "3" : {"class" :  "?", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "?", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "?", "availability" : "unav"}
+        }
+    },
+    "ZAN" : {
+      "day1" :
+        {
+          "1" : {"class" :  "HALL", "availability" : "assembly"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "S39", "availability" : "unav"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "obs", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "meeting"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day2" :
+        {
+          "1" : {"class" :  "S39", "availability" : "unav"},
+          "2" : {"class" :  "S39", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "obs", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day3" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "obs", "availability" : "unav"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "C65", "availability" : "unav"}
+        },
+      "day4" :
+        {
+          "1" : {"class" :  "S39", "availability" : "unav"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "", "availability" : "free"},
+          "5" : {"class" :  "", "availability" : "free"},
+          "6" : {"class" :  "obs", "availability" : "unav"},
+          "7" : {"class" :  "", "availability" : "free"}
+        },
+      "day5" :
+        {
+          "1" : {"class" :  "", "availability" : "free"},
+          "2" : {"class" :  "", "availability" : "free"},
+          "3" : {"class" :  "", "availability" : "free"},
+          "4" : {"class" :  "obs", "availability" : "unav"},
+          "5" : {"class" :  "C65", "availability" : "unav"},
+          "6" : {"class" :  "", "availability" : "free"},
+          "7" : {"class" :  "", "availability" : "free"}
+        }
+    }
+  }
+}
